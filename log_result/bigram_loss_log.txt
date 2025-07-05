@@ -1,3 +1,5 @@
+# 说明： 这是最简单的 bigram 大模型在不同 epoch 情况下的训练损失日志
+
 step 0:train loss4.7305,val loss4.7241
 step 300:train loss2.8110,val loss2.8249
 step 600:train loss2.5434,val loss2.5682
