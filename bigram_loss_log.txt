@@ -1,0 +1,49 @@
+step 0:train loss4.7305,val loss4.7241
+step 300:train loss2.8110,val loss2.8249
+step 600:train loss2.5434,val loss2.5682
+step 900:train loss2.4932,val loss2.5088
+step 1200:train loss2.4863,val loss2.5035
+step 1500:train loss2.4665,val loss2.4921
+step 1800:train loss2.4683,val loss2.4936
+step 2100:train loss2.4696,val loss2.4846
+step 2400:train loss2.4638,val loss2.4879
+step 2700:train loss2.4738,val loss2.4911
+step 3000:train loss2.4613,val loss2.4897
+step 3300:train loss2.4689,val loss2.4793
+step 3600:train loss2.4554,val loss2.4919
+step 3900:train loss2.4682,val loss2.4906
+step 4200:train loss2.4634,val loss2.4882
+step 4500:train loss2.4563,val loss2.4804
+step 4800:train loss2.4557,val loss2.4852
+
+Generated text:
+
+
+
+CExfik brid owindakis s, bth
+
+Hiset bube d e.
+S:
+O:
+IS:
+Folatanss:
+Wanthar u qur, vet?
+F dilasoate awice my.
+
+HNEdarom oroup
+Yowhthetof isth ble mil ndill, ath ireeesenghin lat Hetiliovets, and Win nghire yombousel lind me l.
+HAshe ce hiry:
+Supr aisspllw y.
+Hentofu noroopetelaves
+MPOR:
+Whod mothakleo Windo whth eisbyo wie m dourive cend iend t so mower; te
+
+AN ad nterupt f s ar iris! m:
+
+Thiny aleronth,
+Mad re?
+
+WISo myr f-
+LLERor,
+SS&y, wardsal this ghesthidin cour ay aney IOUSts I fr y ce.
+J
