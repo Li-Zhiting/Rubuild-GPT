@@ -154,7 +154,7 @@ m = model.to(device)
 # create a pytorch optimizer
 optimizer = torch.optim.AdamW(model.parameters(),lr = learning_rate)
 
-log_file = open("gpt_mha_loss_log.txt","w")
+log_file = open("gpt_mha_ffwd_loss_log.txt","w")
 
 for iter in range(max_iter):
     
